@@ -13,10 +13,11 @@
     Sou uma crítica de café gourmet e uma mãe de pet orgulhosa. Entusiasta de design e uma chef confeiteira caseira. Sou apaixonada por feiras medievais, RPG e jogos de tabuleiro. Eu amo estar na natureza! Meus passatempos favoritos são jogar com amigos, brincar de cerâmica, ir ao cinema, conhecer restaurantes e cafeterias ao redor da cidade. Sou fã nº1 de ficção científica. E sempre que possível, tô fazendo um docinho!</p>
   </p>
 
-  <div align="center">
-  <a href="https://www.linkedin.com/in/kewmartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kewng@gmail.com" target="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+  
+
+<a href="https://kellencmartins.github.io/portfolio/">Vem me conhecer um pouco mais =)</a>
+<a href="https://www.linkedin.com/in/kewmartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 
 <div>
   <h2>Minhas skills</h2>
