@@ -15,7 +15,7 @@
 
   
 
-<a href="https://kellencmartins.github.io/portfolio/">Vem me conhecer um pouco mais =)</a><br>
+<a href="https://kellencmartins.github.io/portfolio/">Vem me conhecer um pouco mais =)</a><br><br>
 <a href="https://www.linkedin.com/in/kewmartins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
